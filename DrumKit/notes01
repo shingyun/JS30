@@ -1,0 +1,44 @@
+
+
+HTML 
+
+AUDIO
+
+A <audio> tag define sounds, represented using the <source> elements or the src attribute.
+
+ex.1
+  <audio>
+   <source src="URL_1" type="audio/mpeg">>
+   <source src="URL_2" type="audio/mpeg">>
+  </audio>
+
+ex.2
+  <audio src='URL_1'></audio>
+
+other attributes: autoplay, controls, loop etc.
+
+HTMLMediaElement.currentTime is a property, giving the current playback time inseconds.
+audio.currentTime = "seconds"
+
+
+KEYBOARD
+
+<kbd> is a phrase tag, defining keyboard input.
+<kbd> Keyboard Input</kbd>
+other phrase tag: <em>, <strong>, <var>, <code> 
+
+http://keycode.info/
+
+
+
+
+HTML DOM addEventListener() Method 
+This method attaches an event handler to the specified element. 
+
+Syntax: element.addEventListener(event, function)
+example from w3schools:
+ element.addEventListener("click", function(){ alert("Hello World!"); });
+
+ or
+
+
