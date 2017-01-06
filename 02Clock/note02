@@ -1,0 +1,32 @@
+rotate
+
+transform:rotate(XXdeg)
+transform-origin: 50% (by default, rotate from the middle of the element) 
+transition-timing-function: (use inspect to try your favorite setting)
+
+setDate/Time/set a clock
+
+<style>
+transform-origin: 100%;  // set the center of rotation
+transform: rotate(90deg); // set the rotate start point
+transition:all 0.05s;
+transition-timing-function: cubic-bezier(0.1,2.7,0.58,1);// style of transition
+
+
+<JS>
+
+Select the element out of function
+
+create function
+//get the exact time
+new Date();
+getSeconds();
+//turn the time to degree
+const secondsDegrees = ((seconds / 60)*360);
+//set the degree of rotation
+secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
+
+//run the function
+setInterval();
+//setInterval(function, milliseconds)
+//1000 ms = 1 seconds

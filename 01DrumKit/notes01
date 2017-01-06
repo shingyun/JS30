@@ -1,6 +1,6 @@
 
 
-HTML 
+
 
 AUDIO
 
@@ -27,9 +27,8 @@ KEYBOARD
 <kbd> Keyboard Input</kbd>
 other phrase tag: <em>, <strong>, <var>, <code> 
 
+Here is the JS code of keys:
 http://keycode.info/
-
-
 
 
 HTML DOM addEventListener() Method 
@@ -39,6 +38,31 @@ Syntax: element.addEventListener(event, function)
 example from w3schools:
  element.addEventListener("click", function(){ alert("Hello World!"); });
 
- or
+If you want to add event to an array, use forEach()
+ex.
+const keys = document.querySelectorAll('.key');
+keys.forEach(key => key.addEventListener('transitionend',removeTransition));
+
+
+Add/Remove Class to HTML element using JS & jQuery
+
+JS: 
+element.classList.add('className');
+element.classList.remove('className');
+
+jQuery:
+$('element').addClass('className');
+$('element').removeClass('className_1').addClass('className_2');
+
+
+
+
+
+Still confused
+
+jQuery selector
+
+
+
 
 
