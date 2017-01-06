@@ -6,11 +6,11 @@ http://www.shingyun-chiang.com/
 
 This is the record of my learning path of JavaScript30
 
-Attend <a href:"https://javascript30.com">JavaScript30</a>
-Go to <a href:"https://github.com/wesbos/JavaScript30">JavaScript30 Github</a>
+Attend JavaScript30: https://javascript30.com
+Go to JavaScript30 Github: https://github.com/wesbos/JavaScript30
 
-<p style="fill:red">01 - JavaScript Drum Kit</p><br>
-02 - JS + CSS Clock<br>
+01 - JavaScript Drum Kit   checked<br>
+02 - JS + CSS Clock    checked<br>
 03 - CSS Variables<br>
 04 - Array Cardio Day 1<br>
 05 - Flex Panel Gallery<br>
