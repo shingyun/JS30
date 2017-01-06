@@ -9,8 +9,8 @@ This is the record of my learning path of JavaScript30
 Attend JavaScript30: https://javascript30.com
 Go to JavaScript30 Github: https://github.com/wesbos/JavaScript30
 
-01 - JavaScript Drum Kit   checked<br>
-02 - JS + CSS Clock    checked<br>
+01 - JavaScript Drum Kit <br>  checked<br>
+02 - JS + CSS Clock  <br>  checked<br>
 03 - CSS Variables<br>
 04 - Array Cardio Day 1<br>
 05 - Flex Panel Gallery<br>
