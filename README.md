@@ -1,4 +1,4 @@
-# JavaScript30:participating in JavaScript30 challenges
+# JavaScript30: participating in JavaScript challenges
 
 Shing-Yun Chiang, MFA student in Information Design and Visualization program<br>
 Northeastern University, Botson<br>
